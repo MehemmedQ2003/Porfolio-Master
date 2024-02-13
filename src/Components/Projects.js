@@ -37,10 +37,10 @@ class Projects extends Component {
 
 
     this.Woodmart = () => {
-      window.location.assign("https://github.com/MehemmedQ2003/Woodmart-Shopping");
+      window.location.assign("https://github.com/MehemmedQ2003/woodmart-xtemos");
     };
     this.WoodmartLive = () => {
-      window.location.assign("https://woodmart-xtemos.netlify.app/");
+      window.location.assign("https://woodmart-xtemos-shopping.netlify.app/");
     };
 
 
