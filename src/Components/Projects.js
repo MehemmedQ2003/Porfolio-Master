@@ -53,10 +53,10 @@ class Projects extends Component {
 
 
     this.githubProfiles = () => {
-      window.location.assign("https://github.com/MehemmedQ2003/GITHUB_Profiles");
+      window.location.assign("https://github.com/MehemmedQ2003/Github-find-profiles");
     };
     this.githubProfilesLive = () => {
-      window.location.assign("https://github.com/MehemmedQ2003/GITHUB_Profiles");
+      window.location.assign("https://github.com/MehemmedQ2003/Github-find-profiles");
     };
 
 
